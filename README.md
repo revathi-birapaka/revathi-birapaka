@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Machine Learning,Artificial Intelligence,Data Science**
 
-- 🌱 I’m currently learning **DeepLearning,Dockers,Kubernetes and Cloud Services**
+- 🌱 I’m currently learning **Dockers,Kubernetes,Cloud, MLOPS and GenAI**
 
-- 👯 I’m looking to collaborate on **Machine Learning Engineers,DataScientists and Developers**
+- 👯 I’m looking to collaborate with **Machine Learning Engineers,DataScientists and Developers**
 
 - 📫 How to reach me **revathibirapaka@gmail.com**
 
